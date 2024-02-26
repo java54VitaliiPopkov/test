@@ -6,3 +6,4 @@ My test
 Hello univers
 Hello my friends
 Hello everyone!
+Hello all!
